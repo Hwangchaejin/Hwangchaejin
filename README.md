@@ -1,5 +1,8 @@
 ### Hi there 👋
 I am AI software engubeer ub SG college
+<hr>
+안녕하세요 황채진 학생입니다
+<h1>즐겁게 공부 함 가시죠 </h1>
 <!--
 **Hwangchaejin/Hwangchaejin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
